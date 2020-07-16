@@ -1,0 +1,241 @@
+/* 
+  Localizable.strings
+  Protein
+
+  Created by Lakr Aream on 2020/5/26.
+  Copyright © 2020 Lakr Aream. All rights reserved.
+*/
+
+"LANGUAGE_FALG_233" = "Czech";
+
+"Confirm" = "Potvrdit";
+"Dismiss" = "Zavřít";
+"Refresh" = "Obnovit";
+"Share" = "Sdílet";
+"Error" = "Error";
+"Cancel" = "Zrušit";
+"Warning" = "Varování";
+"Delete" = "Smazat";
+"Submit" = "Podat Žádost";
+"Other" = "Ostatní";
+"Done" = "Hotovo";
+"CancelAll" = "Zrušit Vše";
+"Install" = "Instalovat";
+"LICENSE" = "LICENSE";
+
+"Hours" = "Hodiny";
+"Tasks" = "Úlohy";
+"Installed" = "Nainstalované";
+"WishList" = "Seznam Přání";
+"Version" = "Verze";
+"Screenshot" = "Snímek Obrazovky";
+"AvailableUpdate" = "Dostupná Aktualizace";
+"RecentInstalled" = "Nedávno Nainstalované";
+"RecentUpdate" = "Nedávno Aktualizováno";
+"ErrorReadInstalledPackages" = "Chyba při čtení nainstalovaných balíčků";
+"PleaseTryReInstallApp" = "Prosím zkuste tuto aplikaci znovu nainstalovat";
+"OperationLocked" = "Operace uzamknuta";
+"LoadingDataBase" = "Načítám Databázi";
+"WaitingForDataBase" = "Čekám na Databázi";
+"NoRecentUpdate" = "Žádné nedávné aktualizace";
+"NoRecentUpdateInstruction" = "Vše aktuální!";
+"DownloadingWaitHint" = "Stahuji...";
+"IndexInProgress" = "Index in progress";
+"Ungroupped" = "Bez skupiny";
+"MENU" = "MENU";
+"Download Tasks" = "Stažené";
+"Package Tasks" = "Úlohy Balíčků";
+"Other Tasks" = "Ostatní Úlohy";
+"UpdateAll" = "Aktualizovat Vše";
+"EnterNumber" = "Zadejte Číslo";
+"InputInvalid" = "Neplatný vstup";
+"Number" = "Číslo";
+"Group" = "Skupina";
+"Downloaded" = "Stažené";
+"Console" = "Konzole";
+
+"AppDelegate_init" = "Načítám...";
+"AppDelegate_loadRepoRecord" = "Načítám adresáře...";
+"AppDelegate_loadPackageRecord" = "Načítám balíčky...";
+"AppDelegate_startTaskManager" = "Načítám úlohy...";
+"AppDelegate_RevealLoader" = "Loading reveal...";
+"AppDelegate_BootstrapTime" = "Čas spuštění";
+
+"TimeGap_JustNow" = "Právě teď";
+"TimeGap_MinBefore" = "před minutami";
+"TimeGap_HoursBefore" = "Před hodinami";
+"TimeGap_DaysBefore" = "Před dny";
+"TimeGap_OutDated" = " Zastaralé";
+
+"Repo_NoDescription" = "Nebyl poskytnut žádný popisek";
+
+"Package_NoName" = "Beze jména";
+"Package_ContentDamaged" = "Balíček je poškozen";
+
+"Navigation_GoBack" = "Zpět";
+
+"SearchBar_SearchPackageOrRepo" = "Hledej zde";
+
+"HomeCard_Welcome" = "Wítej v Saily";
+"HomeCard_Desc" = "Když svět spí, my sníme";
+
+"DashBoardNavigatorCard_DashBoard" = "Hlavní Panel";
+"DashBoardNavigatorCard_Setting" = "Nastavení";
+"DashBoardNavigatorCard_Tasks" = "Úlohy";
+"DashBoardNavigatorCard_Installed" = "Nainstalované";
+
+"RepoCard_NoRepo" = "Žádný Adresář";
+"RepoCard_AddInstruction" = "Přidat";
+"RepoCard_AddInstructionHint" = "Hodně Štěstí";
+"RepoCard_Cell_RepoInUpdate" = "Pracujeme na Aktualizaci...";
+"RepoCard_Cell_PendingUpdate" = "V pořadí";
+"RepoCard_Cell_LastUpdateTimeHintPrefix" = "Poslední Aktualizace";
+
+"WishList_RemoveHint" = "Opravdu to chceš osdstranit ze svého listu přání?";
+"WishList_RemovedHint" = "Odstraněno";
+"WishList_AddedHint" = "Uloženo";
+
+"RepoViewController_RepoLastUpdated" = "Poslední Aktualizace ";
+"RepoViewController_RepoContains" = " Obsahuje ";
+"RepoViewController_RepoContainsSuffix" = " balíčky";
+"RepoViewController_RepoFeaturedPackageNotFoundHint" = "The package was not found\nPlease retry after refresh";
+
+"RepoAddViewController_TitleAdd" = "Přidat";
+"RepoAddViewController_SelectionSwitcher" = "Přepnout vybrané";
+"RepoAddViewController_RepoDescription" = "Adresář obsahuje různé doplňky, aplikace, témata, a vyzvánění, Které jsou spravované oficiální nebo neoficiální organizací či soukromníkem. Můžeš přidat jakýkoliv zdroj bez omezení, ale měj na paměti že nemůžeme potvrdit že data a informace které poskytuje jsou bezpečné, můžou poškodit tvůj systém nebo zařízení, bez možnosti zotavení.";
+"RepoAddViewController_APTRecordTitle" = "APT Záznamy";
+"RepoAddViewController_APTRecordDescription" = "Následující zdroj(adresář) pochází z APT nebo jiného manažera balíčků";
+"RepoAddViewController_ClipBoardTitle" = "Připnuté";
+"RepoAddViewController_ClipBoardDescription" = "Našli jsme připnuté tyto adresáře, které můžou být zdrojem balíčků";
+"RepoAddViewController_HistoryTitle" = "Historie";
+"RepoAddViewController_HistoryDescription" = "Tyto zdroje už jsi dříve přidal. Tyto záznami budou ukládány po dobu dvou týdnů, dokud ručně nevypnete tuto funkci.";
+"RepoAddViewController_InputTitle" = "Zadat ručně";
+"RepoAddViewController_InputDescription" = "Zadejte adresu zdroje ručně s možností přidat více adres najednou";
+
+"NativeDepiction_ErrorCanNotOpenURLPrefix" = "Nelze navázat kontakt s adresou\n";
+
+"SplitView_Feature" = "Funkce";
+"SplitView_MyRepo" = "Zdroje";
+
+"Installed_SortByDateAccending" = "Čas - Nejstarší";
+"Installed_SortByDateDesending" = "Čas - Nejnovější";
+"Installed_SortByNameDesending" = "Jméno - Zz -> Aa";
+"Installed_SortByNameAccending" = "Jméno - Aa -> Zz";
+
+"BuiltInDepiction_Preview" = "Náhled";
+"BuiltInDepiction_Description" = "Popisek";
+"BuiltInDepiction_whatsNew" = "Co je nového";
+"BuiltInDepiction_Converted" = "Obsah tohoto balíčku je načten z vestavěných informacích v balíčku.";
+"BuiltInDepiction_metaTitle" = "Metadata";
+
+"PackageButtonStart" = "Nastavení";
+"PackageButtonContinue" = "Pokračovat";
+"UPDATE" = "AKTUALIZOVAT";
+"MODIFY" = "UPRAVIT";
+"GET" = "ZÍSKAT";
+"Unavailable"  = "Nedostupné";
+"PackageDepictionError" = "Popis balíčku nené dostupný";
+"PackageOperation_AddToInstall" = "Instalovat";
+"PackageOperation_JustDownload" = "Pouze stáhnout";
+"PackageOperation_SelectVersion" = "Vybrat verzi...";
+"PackageOperation_Share" = "Sdílet";
+"PackageOperation_Advanced" = "Pokročilé...";
+"PackageOperation_FromThisDeveloper" = "Od Vývojáře";
+"PackageOperation_MailBugReports" = "Nahlášení Bugů";
+"PackageOperation_BlockUpdates" = "Blokovat Aktualizace";
+"PackageOperation_BlockThisPackage" = "Blokovat Balíček";
+"PackageOperation_BlockThisDeveloper" = "Blokovat Vývojáře";
+"PackageOperation_AddToDelete" = "Odstranit";
+"PackageOperation_AddToReInstall" = "Reinstalovat";
+"PackageOperation_AddToUpdate" = "Aktualizovat";
+"PackageOperation_NotAvailable" = "Poškozené Metadata";
+"PackageOperation_RemoveFromQueue" = "Odstranit z fronty";
+"PackageOperation_RemoveFromWishList" = "Odstranit ze seznamu přání";
+"PackageOperation_AddWishList" = "Přidat do seznamu přání";
+"PackageOperation_NotAvailableAlertHint" = "Není dostupná žádná operace";
+"PackageOperation_OperationInvalid" = "Neplatná nebo nepovolená operace";
+
+"TaskOperationName_RepoUpdate" = "Aktualizace Adresáře ";
+"TaskOperationName_IndexDescription" = "It takes some time to build the index";
+"TaskOperationName_Index" = "Index Database";
+"TaskOperationName_PackageInstall" = "+ ";
+"TaskOperationName_PackageInstall_SelectedInstall" = "Vybrané ";
+"TaskOperationName_PackageInstall_PulledInstall" = "Install as dependency ";
+"TaskOperationName_PackageDelete" = "- ";
+"TaskOperationName_PackageInstall_PulledDelete" = "Removed due to conflict ";
+"TaskOperationName_PackageInstall_SelectedDelete" = "Selected to delete ";
+"TaskOperationName_Download" = "Download ";
+
+"NoTaskAvailable" = "Empty";
+"NoTaskAvailableTint" = "New tasks are automatically added here";
+
+"Settings" = "Settings";
+"DeviceInfo" = "Device Info";
+"RandomDeviceInfoEnabledOrUDIDNotAvailable" = "UDID Not Available / Hided";
+"EnableRandomDeviceInfoWarning" = "Random device information is only enabled for free software packages, which may block functions including but not limited to software source account login and paid packages download.";
+"EnableRandomDeviceInfo" = "Enable Random Device Info";
+"SoftwareSources" = "Software Sources";
+"RepoLoginHint" = "Manage Logins";
+"RepoDownloadLimit" = "Download Queue Limit 1/24";
+"RepoDownloadTimeLimit" = "Download Timeout 6/180s";
+"AllowRepoHistory" = "Enable History";
+"AllowReportRepos" = "Allow Analysis Upload";
+"SoftwareBehaves" = "Software Behaves";
+"SoftwareAutoUpdateWhenLaunch" = "Auto Queue Updates When Possible";
+"UpdateNotification" = "Update Notifications";
+"AllowReportSoftwares" = "Allow Analysis Upload";
+"DownloadWaitMinMax" = "The download timeout value should be set between 6 seconds and 180 seconds";
+"DownloadQueueNumberMinMax" = "The download queue value should be set between 1 seconds and 24";
+"DeleteRepoHistory" = "This will delete history";
+"AppLanguage" = "Language";
+"RestartAppHint" = "This operation requires restarting the application";
+"ReloadSpringBoard" = "Respring";
+"RebootUserSpace" = "Reboot User Space";
+"RebuildUIcache" = "Reload Springboard Icons";
+"RepoRefreshTimeGap" = "Auto Refresh Time Gap";
+"RepoRefreshTimeGapMinMax" = "Smart refresh requires a time interval between 0.5 and 240 hours";
+"EnterSafeMode" = "Enter Safe Mode";
+"OpenDownload" = "Open Download";
+"FilzaRequiredAlert" = "Filza not installed";
+"DeleteAllDownload" = "Clean Downloads";
+"UnknownSize" = "Unknown Size";
+"DownloadSizeCalculateTimeout" = "Calculate Failed";
+"WebOpenSourceCode" = "Get Source Code";
+"PhotoLibraryUnavailableHint" = "Photo library unavailable, check your privacy settings";
+"SetAvatar" = "Pick Avatar";
+"RemoveAvatar" = "Remove Avatar";
+"Accounts" = "Accounts";
+
+"PackageDiagnosis" = "Diagnosis";
+"PackageDiagnosis_ConditionGroup" = "Requirements";
+"PackageDiagnosis_Help" = "Get Help";
+"PackageDiagnosis_WelcomeLeft" = "The operation requirements for software package";
+"PackageDiagnosis_WelcomeRight" = "are not met, please refer to the following conditions and fix them manually.";
+"PackageDiagnosis_DependsHint" = "This group specifies additional installation targets, but all of them cannot be met.";
+"PackageDiagnosis_ConflictHint" = "The group identified conflict objects and the objects exist.";
+"PackageDiagnosis_ExtraInstall" = "Extra Install";
+"PackageDiagnosis_ExtraDelete" = "Extra Delete";
+"PackageDiagnosis_ExtraInstallHint" = "This group specifies additional installation targets and has been found in the database.";
+"PackageDiagnosis_ExtraDeleteHint" = "This group specifies conflict objects, but the target can be resolved by uninstalling.";
+"PackageDiagnosis_PackageRequired" = "Required By";
+"PackageDiagnosis_PackageRequiredHint" = "To resolve the conflict, please uninstall this package or add it to the uninstall queue";
+"PackageDiagnosis_PackageRequiredTryFix" = "Possible Solution: Delete All";
+"PackageDiagnosis_PackageRequiredTryFixHint" = "Adding all packages above to the delete queue may solve the problem";
+"PackageDiagnosis_PackageRequiredTryFixFailedHint" = "The package has too complicated dependencies, please consider manually clicking on the error condition and selecting delete to view these relationships.";
+"PackageDiagnosis_GoToIssue" = "Go to the error feedback page";
+"PackageDiagnosis_NoDownloadURLAvailable" = "Could not find download URL, please consider refreshing the software source or contacting the software administrator";
+
+"InstallAgent_SubmitTitle" = "Submit Queue";
+"InstallAgent_SubmitTitleHint" = "Please check everything carefully";
+"InstallAgent_APTReportTitle" = "APT Report";
+"InstallAgent_APTReportTitleHint" = "Click the Generate button below to generate the report. This will take some time.";
+"InstallAgent_APTGenerateReport" = "Create Report";
+"InstallAgent_Locked" = "The operation is locked, please try again later";
+"InstallAgent_UnknownError" = "Unknown Error";
+"InstallAgent_UnableAquireDownloadFile" = "Unable to obtain download file";
+"InstallAgent_APTGeneratingReport" = "Creating Report";
+"InstallAgent_APTGeneratedReportContainWarningOrError" = "Report appears to contain warnings or errors, please check carefully";
+"InstallAgent_NoTaskAvailable" = "No task in queue";
+"InstallAgent_DownloadNotFinished" = "The download is not yet complete, please try again later. If the error persists and you cannot see the download queue, tLocalizablehere may be a problem with the package download address. Please try to refresh the software source or clear the download cache in the settings.";
+"InstallAgent_UpdateNotice" = "We are about to update ourself. The app will exit during the progress and will reopen when finished. Please wait and do not reopen manually.";
+"InstallAgent_InTasksNotice" = "System locked, please try again later.";
