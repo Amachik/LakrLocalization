@@ -62,10 +62,10 @@
 "AppDelegate_BootstrapTime" = "Čas spuštění";
 
 "TimeGap_JustNow" = "Právě teď";
-"TimeGap_MinBefore" = "před minutami";
-"TimeGap_HoursBefore" = "Před hodinami";
-"TimeGap_DaysBefore" = "Před dny";
-"TimeGap_OutDated" = " Zastaralé";
+"%xTimeGap_MinBefore" = "před %x minutami";
+"%xTimeGap_HoursBefore" = "Před %x hodinami";
+"%cTimeGap_DaysBefore" = "Před %x dny";
+"%xTimeGap_OutDated" = " %x Zastaralé";
 
 "Repo_NoDescription" = "Nebyl poskytnut žádný popisek";
 
